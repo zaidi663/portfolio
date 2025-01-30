@@ -1,0 +1,55 @@
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
+
+.btn-btn{
+  background-color: #D3E97A;
+  width: 180px;
+  height: 42px;
+  text-align: center;
+ 
+}
+
+.project-1{
+  background-color: #1A1A1A;
+  border-radius: 5px;
+  margin-top: 50px;
+  text-align: center;
+  width: 70%;
+  
+}
+
+.paracolor{
+  color: #C7C7C7;
+}
+
+.live-demo-color{
+  color: #D3E97A;
+}
+.custom-underline {
+  border-bottom: 1px solid #D3E97A; /* Change the color code to the color you desire */
+}
+
+.custom-input {
+  color: white;
+}
+
+.custom-i {
+  background-color: #1A1A1A; /* Replace with your desired background color */
+}
+
+.submit-btn{
+  background-color: #D3E97A;
+  width: 130px;
+  height: 50px;
+  
+}
+.logo-pad{
+  padding-left: 8px;
+}
